@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Uday Hari Chopade
 
 🌍 Jahagirpur, PO: Makodi, Maharashtra, India  
-📞 Phone: +91 72546771  
+📞 Phone: +91 9172546771  
 📧 Email: udaychopade27@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/udaychopade27](https://www.linkedin.com/in/udaychopade27)  
 💻 GitHub: [github.com/udaychopade27](https://github.com/udaychopade27)
