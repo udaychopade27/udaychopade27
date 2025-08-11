@@ -1,59 +1,68 @@
-# Hi there! 👋 I'm Uday Hari Chopade
+# 👋 Hi, I'm Uday Hari Chopade  
+
+🚀 **DevOps & Cloud Enthusiast | AWS Certified | CI/CD & Automation Expert**  
 
 🌍 Jahagirpur, PO: Makodi, Maharashtra, India  
 📞 **Phone:** +91 9172546771  
 📧 **Email:** udaychopade27@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/udaychopade27](https://www.linkedin.com/in/udaychopade27)  
-🌐 **Website:** [udaychopade27.lovable.app](https://udaychopade27.lovable.app)
+🌐 **Portfolio:** [udaychopade27.lovable.app](https://udaychopade27.lovable.app)  
 
 ---
 
-## Professional Summary:
+## 💡 About Me  
 
-Dedicated and results-driven IT professional with a strong foundation in IT fundamentals. Completed the AWS re/Start Program, gaining expertise in AWS Cloud, Linux, Python, and Shell scripting. Proficient in applying core AWS services such as EC2, S3, IAM, VPC, Lambda, CloudFormation, RDS, and Route 53.
-
----
-
-## Projects:
-
-1. **AWS EC2 Deployment with Terraform**
-   - Automated AWS EC2 instance deployment using Terraform, optimizing resource allocation.
-   - Configured security groups, IAM roles, and networking settings for enhanced infrastructure security.
-   - [GitHub Repository](https://github.com/udaychopade27/terraform_project)
-
-2. **MongoDB Database Deployment and Automated Backup**
-   - Deployed MongoDB database instance on AWS cloud and implemented script for automated database backups.
-   - Employed AWS services for robust and scalable data storage.
-   
-3. **Jenkins Declarative CI/CD Pipeline Project**
-   - Developed and executed a Jenkins Declarative CI/CD pipeline project, leveraging Jenkins, Git, and Docker to automate build, test, and deployment for a web application. Reduced deployment time by 50%, ensuring seamless integration and delivery workflows.
-   - [GitHub Repository](https://github.com/udaychopade27/django-notes-app)
+I’m a **passionate IT professional** with hands-on experience in **AWS Cloud, DevOps, Infrastructure Automation, and CI/CD Pipelines**.  
+Graduated from the **AWS re/Start Program** and trained in **Linux, Python, Shell Scripting, and Cloud Infrastructure**.  
+I love solving problems, automating workflows, and building secure, scalable systems.  
 
 ---
 
-## Skills:
+## 🛠 Tech Stack
 
-### Technical Skills:
-- AWS Cloud
-- Linux
-- Python
-- Jenkins
-- Shell Scripting (Bash)
-- Infrastructure as Code (IaC)
-- DevOps Tools
-
-### Certifications:
-- AWS Certified Cloud Practitioner (Amazon Web Services)
-- Introduction to DevOps (Great Learning Academy)
-- AWS CI/CD Pipeline Tutorial (Great Learning Academy)
-- AWS Cloud Quest: Cloud Practitioner (Amazon Web Services)
-- Basic Introduction to Linux
-- Introduction to DevOps Tools
-- Prepare for the Linux Foundation Certified System Administrator (LFCS) Exam
+- **Cloud:** AWS (EC2, S3, IAM, VPC, Lambda, RDS, Route 53, CloudFormation)  
+- **DevOps Tools:** Jenkins, Docker, Kubernetes, Terraform, Git, Prometheus, Grafana, Trivy, SonarQube  
+- **Scripting & Programming:** Python, Bash  
+- **Monitoring & Security:** Prometheus, Grafana, OWASP Dependency Check, Gitleaks  
+- **OS:** Linux (Ubuntu)  
 
 ---
 
-## Languages:
-- Marathi
-- Hindi
-- English
+## 🚀 Featured Projects  
+
+### 1️⃣ [**DevSecOps Capstone Project**](https://github.com/udaychopade27/DevSecOps-Capstone)  
+🔹 Full CI/CD pipeline using **Jenkins, Docker, Trivy, SonarQube, and Prometheus**  
+🔹 Automated deployment of a Notes App with security scans & monitoring  
+🔹 [📺 Watch Project Playlist](https://youtube.com/playlist?list=PLAdTNzDIZj_8bL9tHTXma8Lk89ygTvi6D&si=RPpaaF3PllcAzHOe)  
+
+### 2️⃣ [**AWS EC2 Deployment with Terraform**](https://github.com/udaychopade27/terraform_project)  
+🔹 Automated EC2 provisioning using Terraform  
+🔹 Configured **security groups, IAM roles, and networking** for secure infrastructure  
+
+### 3️⃣ [**Prometheus & Grafana Monitoring Setup**](https://github.com/udaychopade27/PromethusAndGarafanaSetup)  
+🔹 Deployed **Prometheus, Grafana, Loki, Promtail, Node Exporter, cAdvisor, and Alertmanager** using Docker  
+🔹 Monitored system health, API uptime, and container performance  
+
+### 4️⃣ [**Jenkins Declarative CI/CD Pipeline**](https://github.com/udaychopade27/django-notes-app)  
+🔹 Automated build, test, and deployment for a Django app using Jenkins & Docker  
+
+---
+
+## 📜 Certifications  
+
+- **AWS Certified Cloud Practitioner** – Amazon Web Services  
+- **AWS Cloud Quest: Cloud Practitioner** – AWS  
+- **Introduction to DevOps** – Great Learning Academy  
+- **Basic Introduction to Linux** – Great Learning Academy  
+- **Prepare for the Linux Foundation Certified System Administrator (LFCS) Exam**  
+
+---
+
+## 📊 GitHub Stats  
+
+![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=udaychopade27&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udaychopade27&layout=compact&theme=tokyonight)  
+
+---
+
+💬 **"Automate everything, secure everything, monitor everything."**
