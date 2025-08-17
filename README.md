@@ -32,7 +32,7 @@ I love solving problems, automating workflows, and building secure, scalable sys
 
 ### 1️⃣ [**DevSecOps Capstone Project**](https://github.com/udaychopade27/DevSecOps-Capstone)  
 🔹 Full CI/CD pipeline using **Jenkins, Docker, Trivy, SonarQube, and Prometheus**  
-🔹 Automated deployment of a Notes App with security scans & monitoring  
+🔹 Automated deployment of a Notes App with security scans & monitoring
 🔹 [📺 Watch Project Playlist](https://youtube.com/playlist?list=PLAdTNzDIZj_8bL9tHTXma8Lk89ygTvi6D&si=RPpaaF3PllcAzHOe)  
 
 ### 2️⃣ [**AWS EC2 Deployment with Terraform**](https://github.com/udaychopade27/terraform_project)  
