@@ -105,11 +105,6 @@ Production-grade monitoring with exporters, alerting, and log aggregation.
 ---
 ## 📊 GitHub Stats   
 
-![Uday's GitHub stats](https://github-readme-stats-mu-black-90.vercel.app/api?username=udaychopade27&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-mu-black-90.vercel.app/api/top-langs/?username=udaychopade27&layout=compact&theme=tokyonight)
-
-
 
 ---
 
