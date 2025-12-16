@@ -4,10 +4,6 @@
 🌍 **Maharashtra, India**  
 📧 **udaychopade27@gmail.com**
 
-🔗 **Portfolio:** https://udaychopade27.lovable.app  
-🔗 **LinkedIn:** https://linkedin.com/in/udaychopade27  
-🔗 **GitHub:** https://github.com/udaychopade27  
-
 ---
 
 ## 🧑‍💻 About Me
