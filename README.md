@@ -73,14 +73,6 @@ Production-grade monitoring with exporters, alerting, and log aggregation.
 🔗 https://github.com/udaychopade27/PromethusAndGarafanaSetup  
 
 ---
-
-## 💼 Experience  
-### DevOps Engineer Intern — *Nimap Infotech (Jul 2024 – Jan 2025)*  
-- Automated deployments with Jenkins  
-- Managed Dockerized environments  
-- Setup Prometheus–Grafana monitoring stack  
-- Automated backups to AWS S3  
-
 ---
 
 ## 🏆 Certifications  
