@@ -1,68 +1,102 @@
 <div align="center">
 
-# Uday Hari Chopade
+# Hi, I'm Uday Hari Chopade 👋
 
-**DevOps Engineer, Fusionpact Technologies**
-Cloud infrastructure · CI/CD automation · Observability
+### DevOps Engineer @ Fusionpact Technologies
 
-[Portfolio](https://udaychopade27.lovable.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/udaychopade27) &nbsp;·&nbsp; [Email](mailto:udaychopade27@gmail.com) &nbsp;·&nbsp; Buldhana, Maharashtra, India
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA0FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%40+Fusionpact+Technologies;AWS+%7C+Terraform+%7C+Kubernetes+%7C+CI%2FCD;65%25+faster+pipelines%2C+73%25+smaller+images;From+Mechanical+Engineering+to+Cloud+%26+DevOps)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2EA0FF?style=for-the-badge&logo=vercel&logoColor=white)](https://udaychopade27.lovable.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udaychopade27)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaychopade27@gmail.com)
 
 </div>
 
-<br>
+---
 
-I build and operate the infrastructure layer that lets teams ship without babysitting deployments — pipelines, container platforms, and the monitoring that tells you something broke before a customer does. I came into this field through **AWS re/Start** and **Capgemini ADAPT** after starting in Mechanical Engineering, which is probably why I default to thinking in systems and failure modes rather than just tools.
+## 🧑‍💻 About Me
 
-<br>
+I build and operate the infrastructure layer that lets teams ship without babysitting deployments — pipelines, container platforms, and the monitoring that catches problems before customers do. I switched into DevOps from a **Mechanical Engineering** background via **AWS re/Start** and **Capgemini ADAPT**, and I still think in systems and failure modes first, tools second.
 
-### Recent impact
+```
+code → build → test → security scan → deploy → monitor
+```
 
-> Numbers below are from my current work — worth a quick sanity check before this goes live publicly.
+📍 Buldhana, Maharashtra, India — open to relocating to Pune
 
-- Cut CI/CD pipeline execution time by **65%** through pipeline restructuring and caching strategy
-- Reduced Docker image size by **73%** via multi-stage builds and layer optimization
-- Reduced manual deployment overhead by **50%** by replacing runbook steps with automation
-- Led a cross-account AWS migration with zero unplanned downtime
+---
 
-<br>
-
-### What I work with
+## 📈 Recent Impact
 
 <table>
-<tr><td width="160"><b>Cloud</b></td><td>AWS — ECS Fargate, RDS, ALB, IAM, S3, VPC, EC2, Secrets Manager</td></tr>
-<tr><td><b>Infrastructure as Code</b></td><td>Terraform, CloudFormation, Ansible</td></tr>
-<tr><td><b>CI/CD</b></td><td>Jenkins, GitHub Actions</td></tr>
-<tr><td><b>Containers &amp; Orchestration</b></td><td>Docker, Kubernetes</td></tr>
-<tr><td><b>Observability</b></td><td>Prometheus, Grafana, Loki, Datadog, Alertmanager</td></tr>
-<tr><td><b>Security</b></td><td>Trivy, SonarQube, Gitleaks, OWASP Dependency Check</td></tr>
-<tr><td><b>Languages</b></td><td>Python, Bash</td></tr>
+<tr><td align="center"><b>65%</b><br><sub>faster CI/CD pipelines</sub></td>
+<td align="center"><b>73%</b><br><sub>smaller Docker images</sub></td>
+<td align="center"><b>50%</b><br><sub>less manual deploy work</sub></td>
+<td align="center"><b>0</b><br><sub>downtime cross-account AWS migration</sub></td>
+</tr>
 </table>
 
-<br>
+<sub>Numbers reflect current work — a quick sanity check before this goes fully public is worth doing.</sub>
 
-### Projects
+---
 
-**DockerMind** — an AI-powered DevOps agent for automated ops response. Master–slave architecture over mTLS, JWT auth with RBAC, and a local LLM (Ollama, qwen2.5-coder tuned for 4GB RAM) that reasons over runbooks and pushes alerts to Slack/Discord.
+## 🔧 Tech Stack
 
-**[nifty-investment-assistant](https://github.com/udaychopade27/nifty-investment-assistant)** — ETF portfolio tracker (React + Vite + FastAPI) with an analytics module for XIRR, SIP projections, and backtesting. The more interesting part is the pipeline behind it: a GitHub Actions CI/CD setup with GHCR builds, automated image cleanup, and cost-optimized caching after I found layer caching was driving up billing.
+<div align="center">
 
-**[k8s-projects](https://github.com/udaychopade27/k8s-projects)** — a 3-tier microservice app (frontend, backend, database) deployed on Kubernetes, used as a working reference for orchestration patterns.
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**[devsecops-project](https://github.com/udaychopade27/devsecops-project)** — Terraform provisions the EC2 infrastructure, Ansible configures Jenkins and Docker on top of it — a minimal but complete IaC-to-config-management pipeline.
+</div>
 
-**[PromethusAndGarafanaSetup](https://github.com/udaychopade27/PromethusAndGarafanaSetup)** — a monitoring stack (Prometheus, Grafana, exporters, alert routing) built as a reusable observability baseline.
+---
 
-**[cicd-devops-web-app](https://github.com/udaychopade27/cicd-devops-web-app)** — a Jenkins declarative pipeline that automated a manual deployment process, cutting deployment time by half.
+## 🚀 Projects
 
-**[terraform_project](https://github.com/udaychopade27/terraform_project)** — EC2, VPC, and security group provisioning as code.
+### 🤖 DockerMind — AI-Powered DevOps Agent
+Master–slave architecture over mTLS, JWT auth with RBAC, and a local LLM (Ollama, qwen2.5-coder tuned for 4GB RAM) that reasons over runbooks and pushes automated alerts to Slack/Discord.
 
-<br>
+### 💹 [nifty-investment-assistant](https://github.com/udaychopade27/nifty-investment-assistant) — ETF Portfolio Tracker
+React + Vite + FastAPI app with an analytics module for XIRR, SIP projections, and backtesting. Also involved fixing its GitHub Actions pipeline — found layer caching was quietly driving up CI billing and rebuilt it with GHCR image builds and automated cleanup.
 
-### Certifications
+### ☸️ [k8s-projects](https://github.com/udaychopade27/k8s-projects) — Kubernetes 3-Tier App
+A microservice architecture (frontend, backend, database) deployed on Kubernetes as a working orchestration reference.
 
-AWS Certified Cloud Practitioner &nbsp;·&nbsp; AWS re/Start Graduate &nbsp;·&nbsp; Capgemini ADAPT (AI Platform Engineering) &nbsp;·&nbsp; KodeKloud Engineer — Terraform, Docker, Jenkins, Kubernetes &nbsp;·&nbsp; Linux Foundation — User & Group Management
+### 🔐 [devsecops-project](https://github.com/udaychopade27/devsecops-project) — DevSecOps Infrastructure Setup
+Terraform provisions AWS EC2 infrastructure; Ansible configures Jenkins and Docker on top — a complete IaC-to-config-management pipeline.
 
-<br>
+### 📡 [PromethusAndGarafanaSetup](https://github.com/udaychopade27/PromethusAndGarafanaSetup) — Monitoring Stack
+Prometheus + Grafana with exporters and alert routing, built as a reusable observability baseline.
+
+### 🔄 [cicd-devops-web-app](https://github.com/udaychopade27/cicd-devops-web-app) — Jenkins Declarative Pipeline
+Automated a manual deployment process end-to-end, cutting deployment time in half.
+
+### 🌩️ [terraform_project](https://github.com/udaychopade27/terraform_project) — AWS Infrastructure as Code
+EC2, VPC, and security group provisioning as code.
+
+---
+
+## 🏆 Certifications
+
+- ☁️ AWS Certified Cloud Practitioner
+- 🎓 AWS re/Start Graduate
+- 🎓 Capgemini ADAPT — AI Platform Engineering
+- ⚙️ KodeKloud Engineer — Terraform, Docker, Jenkins, Kubernetes
+- 🐧 Linux Foundation — User & Group Management
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -70,10 +104,14 @@ AWS Certified Cloud Practitioner &nbsp;·&nbsp; AWS re/Start Graduate &nbsp;·&n
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-Open to DevOps / Cloud Engineering roles — reach out via <a href="https://www.linkedin.com/in/udaychopade27">LinkedIn</a> or <a href="mailto:udaychopade27@gmail.com">email</a>.
+**Open to DevOps / Cloud Engineering roles**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2EA0FF?style=for-the-badge&logo=vercel&logoColor=white)](https://udaychopade27.lovable.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udaychopade27)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/udaychopade27)
 
 </div>
