@@ -22,7 +22,7 @@ I build and operate the infrastructure layer that lets teams ship without babysi
 code → build → test → security scan → deploy → monitor
 ```
 
-📍 Buldhana, Maharashtra, India — open to relocating to Pune
+📍 Buldhana, Maharashtra, India — open to relocating to Pune, Mumbai, Hyderabad, Bengaluru, Chennai
 
 ---
 
