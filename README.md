@@ -2,7 +2,7 @@
 
 # Hi, I'm Uday Hari Chopade 👋
 
-### DevOps Engineer @ Fusionpact Technologies
+### DevOps Engineer 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA0FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%40+Fusionpact+Technologies;AWS+%7C+Terraform+%7C+Kubernetes+%7C+CI%2FCD;65%25+faster+pipelines%2C+73%25+smaller+images;From+Mechanical+Engineering+to+Cloud+%26+DevOps)](https://git.io/typing-svg)
 
